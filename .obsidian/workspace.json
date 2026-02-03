@@ -20,24 +20,37 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "2dcd6d0549033e70",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "39e5ce3638b2041c",
+            "id": "40c3ef05715695d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-03 오늘 배운것.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-03 오늘 배운것"
+            }
+          },
+          {
+            "id": "0da3305de871679b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "클로드 파일 생성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "클로드 파일 생성"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -94,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "2d71f849e9cbbaac",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "클로드 파일 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "클로드 파일 생성 의 백링크"
             }
           },
           {
@@ -129,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "클로드 파일 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "클로드 파일 생성 의 나가는 링크"
             }
           },
           {
@@ -180,13 +193,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "c9548250efcabcf6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +219,21 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7ef3629ffbb553",
+  "active": "3f8a00970fe6d12c",
   "lastOpenFiles": [
-    "Welcome.md"
+    "TEST",
+    "PC직접작성1.md",
+    "PC직접작성.md",
+    "무제 - 복사본.md",
+    "클로드 파일 생성.md",
+    "2026-02-03 오늘 배운것.md",
+    "무제.md",
+    "Welcome.md",
+    "무제 1",
+    "무제"
   ]
 }
