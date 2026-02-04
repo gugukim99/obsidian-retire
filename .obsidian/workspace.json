@@ -53,14 +53,15 @@
             "id": "bc02d93abb3e6713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "PARA/Archive/일번.md",
-                "mode": "source",
-                "source": false
+                "aFile": "PARA/Archive/일번.md",
+                "bFile": "PARA/Archive/일번.md",
+                "aRef": "f1d7ba80ef6ea89485297f0136b7212d47fe84dd^",
+                "bRef": "f1d7ba80ef6ea89485297f0136b7212d47fe84dd"
               },
-              "icon": "lucide-file",
-              "title": "일번"
+              "icon": "diff",
+              "title": "Diff: 일번 (f1d7ba8)"
             }
           }
         ],
