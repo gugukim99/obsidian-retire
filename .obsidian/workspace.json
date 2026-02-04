@@ -217,9 +217,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f736eba46532f300",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -239,9 +249,9 @@
   },
   "active": "bc02d93abb3e6713",
   "lastOpenFiles": [
+    "PARA/Archive/일번.md",
     "PARA/Archive/완료된 과제 예시.md",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
-    "PARA/Archive/일번.md",
     "PARA/Areas/자기계발.md",
     "PARA/Projects/퇴직준비세미나 학습.md",
     "PARA/Resources/AI 도구 모음.md",
