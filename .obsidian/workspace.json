@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,11 +233,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "237c3e716d3f0d07",
+  "active": "0461485420806b00",
   "lastOpenFiles": [
     "Homeworks/02RCIF/parts.md",
-    "Homeworks/02RCIF/버전1",
     "Homeworks/02RCIF/질문 1.md",
+    "첨부파일/Pasted image 20260204144006.png",
+    "Homeworks/02RCIF/버전1",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "Homeworks/02RCIF",
@@ -256,7 +257,6 @@
     "PARA/Archive/image.png",
     "첨부파일/Pasted image 20260204144050.png",
     "첨부파일/Pasted image 20260204144027.png",
-    "첨부파일/Pasted image 20260204144006.png",
     "첨부파일",
     "PARA/Archive/완료된 과제 예시.md",
     "PARA/Projects/퇴직준비세미나 학습.md",
