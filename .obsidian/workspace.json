@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homeworks/02RCIF/질문 1.md",
+                "file": "Homeworks/02RCIF/버전1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "질문 1"
+              "title": "버전1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c043730a59a0b9a",
+  "active": "0461485420806b00",
   "lastOpenFiles": [
-    "Homeworks/02RCIF/parts.md",
     "Homeworks/02RCIF/질문 1.md",
+    "Homeworks/02RCIF/parts3.md",
+    "Homeworks/02RCIF/parts3.md.tmp.34680.1770280889834",
+    "Homeworks/02RCIF/parts.md.tmp.34680.1770280741548",
+    "Homeworks/02RCIF/parts.md",
     "Homeworks/02RCIF/버전1.md",
     "첨부파일/Pasted image 20260204144006.png",
     "Homeworks/02RCIF/버전1",
@@ -276,8 +279,6 @@
     "PARA/Archive/완료된 과제 예시.md",
     "PARA/Projects/퇴직준비세미나 학습.md",
     "PARA/Resources/AI 도구 모음.md",
-    "PARA/Archive/완료된 과제 예시.md.tmp.37768.1770100238808",
-    "PARA/Resources/AI 도구 모음.md.tmp.37768.1770100233064",
     "퇴직준비세미나_자율학습_가이드.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "2026-02-03 오늘 배운것.md",
@@ -287,7 +288,6 @@
     "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/7회차_1인_연구자의_무기들.md",
-    "회차별자료/8회차_발표자료부터_데이터_분석까지.md",
-    "회차별자료/9회차_나만의_프로젝트_관리_시스템.md"
+    "회차별자료/8회차_발표자료부터_데이터_분석까지.md"
   ]
 }

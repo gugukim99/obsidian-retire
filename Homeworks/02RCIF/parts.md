@@ -4,71 +4,72 @@
 
 | 특성 | 구리 (Cu) | 그래핀 (Graphene) |
 |------|-----------|-------------------|
-| 라만 활성 | 거의 없음 (금속은 라만 비활성) | 강한 라만 신호 |
-| 주요 피크 | - | G band (~1580 cm⁻¹), 2D band (~2700 cm⁻¹) |
-| 결함 지표 | - | D band (~1350 cm⁻¹) - 결함 시 출현 |
-| 판별 방법 | 배경 신호만 존재 | G, 2D 피크 출현으로 성장 확인 |
+| 라만 활성 | 없음 (금속은 라만 비활성) | 매우 강함 |
+| 주요 피크 | 배경 신호만 존재 | **G band (~1580 cm⁻¹)**, **2D band (~2700 cm⁻¹)** |
+| 결함 지표 | - | D band (~1350 cm⁻¹) |
+| 층수 판별 | - | 2D/G 비율 및 2D 피크 형태로 판별 |
 
-**핵심:** 구리는 라만 비활성이므로, G band와 2D band 출현 시 그래핀 성장 확인 가능
+**판별 원리:** 구리는 라만 비활성이므로 G, 2D 피크 출현 = 그래핀 성장 확인
 
 ---
 
 ## 2. 시스템 구성 부품 추천
 
-### 2.1 레이저 소스 (532nm 녹색 레이저 권장)
+### 2.1 레이저 소스 (532nm 권장)
 
-| 모델 | 제조사 | 출력 | 특징 |
-|------|--------|------|------|
-| Gem 532 | Laser Quantum | 50-500mW | 단일모드, 저잡음, 연구용 표준 |
-| MLL-III-532 | CNI Laser | 50-200mW | 가성비 우수, OEM 적합 |
-| Excelsior 532 | Spectra-Physics | 50-300mW | 장기 안정성, 산업용 |
+| 모델 | 제조사 | 특징 |
+|------|--------|------|
+| Gem 532 | Laser Quantum | 단일모드, 저잡음, 연구용 표준 |
+| MLL-III-532 | CNI Laser | 가성비 우수 |
+| Excelsior 532 | Spectra-Physics | 장기 안정성 |
 
-**532nm 선택 이유:** 그래핀 라만 신호 강도 우수, 형광 간섭 최소화
+> **532nm 선택 이유:** 그래핀 신호 강도 최적, 형광 간섭 최소
 
 ### 2.2 Fiber-coupled Raman Probe
 
 | 모델 | 제조사 | 특징 |
 |------|--------|------|
-| RIP-RPB-532-FC | InPhotonics | 532nm 최적화, 내장 필터, 연구용 표준 |
-| SuperHead | Horiba | 고감도, 다양한 파장 호환 |
-| RP20 | Wasatch Photonics | 소형, OEM 통합 용이 |
+| RIP-RPB-532-FC | InPhotonics | 532nm 최적화, 필터 내장 |
+| SuperHead | Horiba | 고감도, 다파장 호환 |
+| RP20 | Wasatch Photonics | 소형, OEM 적합 |
 
-### 2.3 분광기 + 검출기 (Spectrometer & Detector)
+### 2.3 Detector (분광기 + 검출기)
 
 | 모델 | 제조사 | 특징 |
 |------|--------|------|
-| WP 532 Raman | Wasatch Photonics | 소형, CCD 내장, 턴키 솔루션 |
+| WP 532 Raman | Wasatch Photonics | 소형, CCD 내장, 턴키 |
 | QE Pro-Raman | Ocean Insight | 고감도 CCD, USB 연결 |
-| iHR320 + Syncerity | Horiba | 연구급, 고분해능, CCD 별도 |
+| iHR320 + Syncerity | Horiba | 연구급, 고분해능 |
 
 ### 2.4 회로 보드 / 컨트롤러
 
-| 구성요소 | 추천 제품 | 용도 |
-|----------|-----------|------|
-| DAQ 보드 | NI USB-6001 (National Instruments) | 레이저 제어, 트리거 |
-| 마이크로컨트롤러 | Arduino Due / Raspberry Pi | 저비용 자동화 |
+| 제품 | 제조사 | 용도 |
+|------|--------|------|
+| NI USB-6001 | National Instruments | 레이저 제어, 트리거 |
+| Arduino Due | Arduino | 저비용 자동화 |
+| Raspberry Pi 4 | Raspberry Pi | 데이터 수집, 제어 |
 
 ### 2.5 광학 부품
 
-| 부품 | 추천 제품 | 제조사 |
+| 부품 | 추천 모델 | 제조사 |
 |------|-----------|--------|
 | Edge Filter (532nm) | LP03-532RE | Semrock |
 | 빔스플리터 | BSW10 | Thorlabs |
 | 집광렌즈 | AC254-030-A | Thorlabs |
-| 광섬유 패치코드 | M72L01 (532nm용) | Thorlabs |
+| 광섬유 패치코드 | M72L01 | Thorlabs |
 
-### 2.6 소프트웨어
+### 2.6 소프트웨어 (S/W)
 
-| 소프트웨어 | 제조사/개발 | 용도 |
-|------------|-------------|------|
+| 소프트웨어 | 제조사 | 용도 |
+|------------|--------|------|
 | ENLIGHTEN | Wasatch Photonics | 스펙트럼 수집 (무료) |
-| OceanView | Ocean Insight | 스펙트럼 분석 |
+| OceanView | Ocean Insight | 데이터 분석 |
 | LabVIEW | National Instruments | 커스텀 자동화 |
-| Python + scipy | 오픈소스 | 데이터 후처리, 피크 분석 |
+| Python + scipy | 오픈소스 | 피크 분석, 후처리 |
 
 ---
 
-## 3. 예상 구성 비용 (참고용)
+## 3. 예상 비용
 
 | 구분 | 예상 비용 (USD) |
 |------|-----------------|
@@ -80,4 +81,4 @@
 
 ---
 
-*작성일: 2026-02-05*
+*진공 챔버 내 측정 시 광학 뷰포트 호환성 확인 필요*
