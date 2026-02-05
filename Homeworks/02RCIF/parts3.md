@@ -2,11 +2,11 @@
 
 ## 1. 구리 vs 그래핀 라만 스펙트럼 비교
 
-| 특성 | 구리 (Cu) | 그래핀 (Graphene) |
-|------|-----------|-------------------|
-| 라만 활성 | 없음 (금속은 라만 비활성) | 매우 강함 |
-| 주요 피크 | 배경 신호만 존재 | **G band (~1580 cm⁻¹)**, **2D band (~2700 cm⁻¹)** |
-| 결함 지표 | - | D band (~1350 cm⁻¹) |
+| 특성    | 구리 (Cu)         | 그래핀 (Graphene)                                    |
+| ----- | --------------- | ------------------------------------------------- |
+| 라만 활성 | 없음 (금속은 라만 비활성) | 매우 강함                                             |
+| 주요 피크 | 배경 신호만 존재       | **G band (~1580 cm⁻¹)**, **2D band (~2700 cm⁻¹)** |
+| 결함 지표 | -               | D band (~1350 cm⁻¹)                               |
 
 **판별 원리:** 구리는 라만 비활성 → G, 2D 피크 출현 시 그래핀 성장 확인
 
@@ -16,19 +16,19 @@
 
 ### 2.1 레이저 소스 (532nm 권장)
 
-| 모델 | 제조사 | 홈페이지 | 한국 에이전트 |
-|------|--------|----------|---------------|
-| Gem 532 | Laser Quantum | www.laserquantum.com | 레이저옵텍 031-724-6800 |
-| MLL-III-532 | CNI Laser | www.cnilaser.com | 포토닉스코리아 031-8039-4900 |
-| Excelsior 532 | Spectra-Physics | www.spectra-physics.com | MKS코리아 031-336-8161 |
+| 모델            | 제조사             | 홈페이지                    | 한국 에이전트               |
+| ------------- | --------------- | ----------------------- | --------------------- |
+| Gem 532       | Laser Quantum   | www.laserquantum.com    | 레이저옵텍 031-724-6800    |
+| MLL-III-532   | CNI Laser       | www.cnilaser.com        | 포토닉스코리아 031-8039-4900 |
+| Excelsior 532 | Spectra-Physics | www.spectra-physics.com | MKS코리아 031-336-8161   |
 
 ### 2.2 Fiber-coupled Raman Probe
 
-| 모델 | 제조사 | 홈페이지 | 한국 에이전트 |
-|------|--------|----------|---------------|
-| RIP-RPB-532-FC | InPhotonics | www.inphotonics.com | 해성옵틱스 02-2088-2111 |
-| SuperHead | Horiba | www.horiba.com | 호리바코리아 02-6902-2500 |
-| RP20 | Wasatch Photonics | www.wasatchphotonics.com | 해성옵틱스 02-2088-2111 |
+| 모델             | 제조사               | 홈페이지                     | 한국 에이전트             |
+| -------------- | ----------------- | ------------------------ | ------------------- |
+| RIP-RPB-532-FC | InPhotonics       | www.inphotonics.com      | 해성옵틱스 02-2088-2111  |
+| SuperHead      | Horiba            | www.horiba.com           | 호리바코리아 02-6902-2500 |
+| RP20           | Wasatch Photonics | www.wasatchphotonics.com | 해성옵틱스 02-2088-2111  |
 
 ### 2.3 Detector (분광기 + 검출기)
 
