@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -233,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "237c3e716d3f0d07",
+  "active": "0461485420806b00",
   "lastOpenFiles": [
-    "Homeworks/02RCIF/질문 1.md",
     "Homeworks/02RCIF/parts.md",
+    "Homeworks/02RCIF/질문 1.md",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "Homeworks/02RCIF",
