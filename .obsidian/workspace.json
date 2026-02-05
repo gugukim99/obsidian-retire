@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,11 +244,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc02d93abb3e6713",
+  "active": "0461485420806b00",
   "lastOpenFiles": [
     "PARA/Archive/일번.md",
     "PARA/Archive/image.png",
