@@ -248,13 +248,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8a00970fe6d12c",
+  "active": "434cdda9fddd1b7f",
   "lastOpenFiles": [
+    "Homeworks/02RCIF",
+    "Homeworks",
+    "회차별자료/1회차_오리엔테이션_환경설정.md",
+    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "첨부파일/Phase1-2_프롬프트_실전과제.md",
     "회차별자료/6회차_Claude_Skill_자동_문서화.md",
     "회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
     "PARA/Areas/자기계발.md",
-    "회차별자료/1회차_오리엔테이션_환경설정.md",
     "000_PARA/Resource/claude code 사용하기.md",
     "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 소개와 설치.md",
     "000_PARA/Resource/008_eduDoc/Obsidian",
@@ -274,9 +277,7 @@
     "PARA/Resources/AI 도구 모음.md.tmp.37768.1770100233064",
     "PARA/Archive",
     "PARA/Resources",
-    "PARA/Areas",
     "퇴직준비세미나_자율학습_가이드.md",
-    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "2026-02-03 오늘 배운것.md",
     "클로드 파일 생성.md",
@@ -288,7 +289,6 @@
     "회차별자료/8회차_발표자료부터_데이터_분석까지.md",
     "회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
     "PC직접작성1.md",
-    "PC직접작성.md",
-    "무제 - 복사본.md"
+    "PC직접작성.md"
   ]
 }
