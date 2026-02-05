@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+                "file": "Homeworks/02RCIF/질문 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2회차_프롬프트_엔지니어링_기초"
+              "title": "질문 1"
             }
           },
           {
@@ -250,10 +250,11 @@
   },
   "active": "434cdda9fddd1b7f",
   "lastOpenFiles": [
+    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "Homeworks/02RCIF/질문 1.md",
     "Homeworks/02RCIF",
     "Homeworks",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
-    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "첨부파일/Phase1-2_프롬프트_실전과제.md",
     "회차별자료/6회차_Claude_Skill_자동_문서화.md",
     "회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
@@ -276,7 +277,6 @@
     "PARA/Archive/완료된 과제 예시.md.tmp.37768.1770100238808",
     "PARA/Resources/AI 도구 모음.md.tmp.37768.1770100233064",
     "PARA/Archive",
-    "PARA/Resources",
     "퇴직준비세미나_자율학습_가이드.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "2026-02-03 오늘 배운것.md",
