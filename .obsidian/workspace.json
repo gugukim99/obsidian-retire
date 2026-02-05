@@ -291,8 +291,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 882,
-        "y": 110,
+        "x": 2115,
+        "y": 260,
         "width": 850,
         "height": 600,
         "maximize": false,
@@ -300,10 +300,11 @@
       }
     ]
   },
-  "active": "a2762072adc9aa25",
+  "active": "cf065bc173a5da7d",
   "lastOpenFiles": [
-    "Homeworks/02RCIF/parts3.md",
+    "첨부파일/AI_결과물.md",
     "Homeworks/02RCIF/Hallucination_검증표.md",
+    "Homeworks/02RCIF/parts3.md",
     "Homeworks/02RCIF/parts.md",
     "Homeworks/02RCIF/버전1.md",
     "Homeworks/02RCIF/parts3.md.tmp.34680.1770284890695",
@@ -340,7 +341,6 @@
     "README.md",
     "CLAUDE.md",
     "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
-    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
-    "회차별자료/7회차_1인_연구자의_무기들.md"
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md"
   ]
 }
