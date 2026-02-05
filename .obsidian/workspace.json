@@ -67,14 +67,15 @@
             "id": "cf065bc173a5da7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Homeworks/02RCIF/parts3.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Homeworks/02RCIF/질문 1.md",
+                "bFile": "Homeworks/02RCIF/질문 1.md",
+                "aRef": "dabf8220467ba2d7c78b5b737f712e92b46a5132^",
+                "bRef": "dabf8220467ba2d7c78b5b737f712e92b46a5132"
               },
-              "icon": "lucide-file",
-              "title": "parts3"
+              "icon": "diff",
+              "title": "Diff: 질문 1 (dabf822)"
             }
           }
         ],
@@ -243,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -263,11 +264,11 @@
   },
   "active": "cf065bc173a5da7d",
   "lastOpenFiles": [
+    "Homeworks/02RCIF/버전1.md",
+    "Homeworks/02RCIF/parts3.md",
     "Homeworks/02RCIF/parts3.md.tmp.34680.1770284890695",
     "Homeworks/02RCIF/질문 1.md",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
-    "Homeworks/02RCIF/parts3.md",
-    "Homeworks/02RCIF/버전1.md",
     "Homeworks/02RCIF/parts3.md.tmp.34680.1770280889834",
     "Homeworks/02RCIF/parts.md.tmp.34680.1770280741548",
     "Homeworks/02RCIF/parts.md",
@@ -290,7 +291,6 @@
     "PARA/Archive/image.png",
     "첨부파일/Pasted image 20260204144050.png",
     "첨부파일/Pasted image 20260204144027.png",
-    "첨부파일",
     "PARA/Archive/완료된 과제 예시.md",
     "PARA/Projects/퇴직준비세미나 학습.md",
     "PARA/Resources/AI 도구 모음.md",
