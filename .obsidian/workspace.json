@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+                "file": "Homeworks/02RCIF/질문 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3회차_AI_Agent_개념과_아키텍처 의 나가는 링크"
+              "title": "질문 1 의 나가는 링크"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+                "file": "Homeworks/02RCIF/질문 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3회차_AI_Agent_개념과_아키텍처 의 개요"
+              "title": "질문 1 의 개요"
             }
           },
           {
@@ -275,10 +275,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08b76b19d0e5a226",
+  "active": "b0b2464f1360c935",
   "lastOpenFiles": [
-    "퇴직준비_강사준비지식.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "퇴직준비_강사준비지식.md",
     "Homeworks/02RCIF/parts3.md",
     "Homeworks/02RCIF/parts.md",
     "Homeworks/03",
