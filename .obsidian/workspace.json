@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homeworks/02RCIF/출력과 인쇄.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -274,11 +274,13 @@
   },
   "active": "f37278b9e1f8934d",
   "lastOpenFiles": [
+    "Homeworks/02RCIF/출력과 인쇄.pdf",
     "Homeworks/02RCIF/출력과 인쇄.md",
+    "스크린샷 2025-10-23 121535.png",
+    "Homeworks/02RCIF/버전1.md",
     "Homeworks/02RCIF/질문 1.md",
     "회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
     "Homeworks/02RCIF/Hallucination_검증표.md",
-    "Homeworks/02RCIF/버전1.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "스크린샷 2025-10-22 115635.png",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
@@ -308,12 +310,10 @@
     "000_PARA/Resource/claude code 사용하기.md",
     "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 소개와 설치.md",
     "000_PARA/Resource/008_eduDoc/Obsidian",
-    "000_PARA/Resource/008_eduDoc",
     "PARA/Archive/일번.md",
     "PARA/Archive/image.png",
     "첨부파일/Pasted image 20260204144050.png",
     "첨부파일/Pasted image 20260204144027.png",
-    "PARA/Archive/완료된 과제 예시.md",
-    "PARA/Projects/퇴직준비세미나 학습.md"
+    "PARA/Archive/완료된 과제 예시.md"
   ]
 }
