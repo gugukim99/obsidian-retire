@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homeworks/02RCIF/출력과 인쇄.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -284,13 +284,15 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a2762072adc9aa25",
   "lastOpenFiles": [
-    "Homeworks/02RCIF/버전1.md",
+    "Homeworks/02RCIF/Hallucination_검증표.md",
     "Homeworks/02RCIF/출력과 인쇄.md",
+    "Homeworks/02RCIF/버전1.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "스크린샷 2025-10-22 115635.png",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
@@ -301,7 +303,6 @@
     "Homeworks/02RCIF/질문 1.md",
     "Homeworks/02RCIF/PC 보기.md",
     "Homeworks/02RCIF/무제 1.md",
-    "Homeworks/02RCIF/Hallucination_검증표.md",
     "무제.base",
     "Homeworks/02RCIF/parts3.md",
     "Homeworks/02RCIF/parts.md",
