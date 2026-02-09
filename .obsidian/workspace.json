@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
-                "mode": "source",
+                "file": "Homeworks/02RCIF/무제.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2회차_프롬프트_엔지니어링_기초"
+              "title": "무제"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+                "file": "Homeworks/02RCIF/무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2회차_프롬프트_엔지니어링_기초 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -289,13 +289,15 @@
   },
   "active": "a2762072adc9aa25",
   "lastOpenFiles": [
+    "Homeworks/02RCIF/버전1.md",
+    "Homeworks/02RCIF/무제.md",
+    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "스크린샷 2025-10-22 115635.png",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "퇴직준비세미나_자율학습_가이드.md",
     "퇴직준비_강사준비지식.md",
     "CLAUDE.md",
     "README.md",
-    "Homeworks/02RCIF/버전1.md",
-    "Homeworks/02RCIF/무제.md",
     "Homeworks/02RCIF/질문 1.md",
     "Homeworks/02RCIF/PC 보기.md",
     "Homeworks/02RCIF/무제 1.md",
@@ -311,7 +313,6 @@
     "Homeworks/02RCIF/parts.md.tmp.34680.1770280741548",
     "첨부파일/Pasted image 20260204144006.png",
     "Homeworks/02RCIF/버전1",
-    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "Homeworks/02RCIF",
     "Homeworks",
     "첨부파일/Phase1-2_프롬프트_실전과제.md",
@@ -327,7 +328,6 @@
     "첨부파일/Pasted image 20260204144050.png",
     "첨부파일/Pasted image 20260204144027.png",
     "PARA/Archive/완료된 과제 예시.md",
-    "PARA/Projects/퇴직준비세미나 학습.md",
-    "PARA/Resources/AI 도구 모음.md"
+    "PARA/Projects/퇴직준비세미나 학습.md"
   ]
 }
