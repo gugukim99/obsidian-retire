@@ -67,11 +67,13 @@
             "id": "f37278b9e1f8934d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Homeworks/02RCIF/출력과 인쇄.pdf"
+                "file": "Homeworks/02RCIF/출력과 인쇄.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "출력과 인쇄"
             }
           }
@@ -272,8 +274,8 @@
   },
   "active": "f37278b9e1f8934d",
   "lastOpenFiles": [
-    "Homeworks/02RCIF/출력과 인쇄.md",
     "Homeworks/02RCIF/출력과 인쇄.pdf",
+    "Homeworks/02RCIF/출력과 인쇄.md",
     "스크린샷 2025-10-23 121535.png",
     "Homeworks/02RCIF/버전1.md",
     "Homeworks/02RCIF/질문 1.md",
