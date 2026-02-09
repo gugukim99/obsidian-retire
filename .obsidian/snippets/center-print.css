@@ -1,0 +1,29 @@
+/* 읽기 모드와 인쇄에서 표 가운데 정렬 */
+.markdown-preview-view table,
+.print table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: table !important;
+}
+
+/* 읽기 모드와 인쇄에서 이미지 가운데 정렬 */
+.markdown-preview-view img,
+.print img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* PDF 내보내기용 */
+@media print {
+  table {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  
+  img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
