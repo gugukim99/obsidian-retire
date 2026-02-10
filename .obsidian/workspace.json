@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 252,
+    "collapsed": true
   },
   "right": {
     "id": "2d71f849e9cbbaac",
@@ -257,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,6 +276,8 @@
   },
   "active": "f37278b9e1f8934d",
   "lastOpenFiles": [
+    "Homeworks/02RCIF/버전1.md",
+    "할일목록.md",
     "할일목록.md.tmp.30932.1770710485964",
     "할일목록.md.tmp.30932.1770710327830",
     "할일목록.md.tmp.30932.1770710205303",
@@ -286,8 +290,6 @@
     "할일목록.md.tmp.39740.1770704742939",
     "할일목록.md.tmp.39740.1770704712677",
     "할일목록.md.tmp.39740.1770704580063",
-    "할일목록.md.tmp.39740.1770704476846",
-    "할일목록.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
