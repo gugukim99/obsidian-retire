@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
-                "mode": "preview",
+                "file": "할일목록-옵시.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3회차_AI_Agent_개념과_아키텍처"
+              "title": "할일목록-옵시"
+            }
+          },
+          {
+            "id": "758a1f4f46beca37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "할일목록-옵시.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "할일목록-옵시"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+                "file": "할일목록-옵시.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3회차_AI_Agent_개념과_아키텍처 의 개요"
+              "title": "할일목록-옵시 의 개요"
             }
           },
           {
@@ -269,11 +283,18 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f37278b9e1f8934d",
+  "active": "758a1f4f46beca37",
   "lastOpenFiles": [
+    "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
+    "Excalidraw/Drawing 2026-02-10 19.53.25.excalidraw.md",
+    "할일목록-옵시.md",
+    "Excalidraw",
+    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별자료/6회차_Claude_Skill_자동_문서화.hwpx",
     "할일목록.md",
     "Homeworks/02RCIF/버전1.md",
@@ -287,9 +308,6 @@
     "my-review-plugin",
     "node_modules/@modelcontextprotocol/sdk/README.md",
     "할일목록.md.tmp.39740.1770704742939",
-    "할일목록.md.tmp.39740.1770704712677",
-    "할일목록.md.tmp.39740.1770704580063",
-    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
     "node_modules/call-bind-apply-helpers/README.md",
@@ -308,8 +326,6 @@
     "node_modules/function-bind/README.md",
     "node_modules/function-bind/CHANGELOG.md",
     "node_modules/range-parser/README.md",
-    "node_modules/range-parser/HISTORY.md",
-    "node_modules/call-bound/README.md",
     "스크린샷 2025-10-23 121535.png",
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
