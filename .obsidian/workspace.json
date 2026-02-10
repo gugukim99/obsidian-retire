@@ -272,8 +272,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f37278b9e1f8934d",
+  "active": "3f8a00970fe6d12c",
   "lastOpenFiles": [
+    "server.js",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "package-lock.json",
     "node_modules/@modelcontextprotocol/sdk/README.md",
@@ -309,7 +310,6 @@
     "node_modules/call-bound/CHANGELOG.md",
     "node_modules/es-object-atoms/README.md",
     "node_modules/es-object-atoms/CHANGELOG.md",
-    "node_modules/es-define-property/README.md",
     "스크린샷 2025-10-23 121535.png",
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
