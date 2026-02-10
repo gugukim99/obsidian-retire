@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,15 +288,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "758a1f4f46beca37",
+  "active": "f37278b9e1f8934d",
   "lastOpenFiles": [
-    "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
     "Excalidraw/Drawing 2026-02-10 19.53.25.excalidraw.md",
+    "할일목록.md",
+    "할일목록.md.tmp.30932.1770721221379",
     "할일목록-옵시.md",
+    "할일목록.md.tmp.30932.1770721166122",
+    "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
     "Excalidraw",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별자료/6회차_Claude_Skill_자동_문서화.hwpx",
-    "할일목록.md",
     "Homeworks/02RCIF/버전1.md",
     "할일목록.md.tmp.30932.1770710485964",
     "할일목록.md.tmp.30932.1770710327830",
@@ -305,9 +307,7 @@
     "my-review-plugin/skills/quick-review/SKILL.md.tmp.30500.1770709127930",
     "my-review-plugin/skills/quick-review",
     "my-review-plugin/skills",
-    "my-review-plugin",
     "node_modules/@modelcontextprotocol/sdk/README.md",
-    "할일목록.md.tmp.39740.1770704742939",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
     "node_modules/call-bind-apply-helpers/README.md",
@@ -325,7 +325,6 @@
     "node_modules/type-is/HISTORY.md",
     "node_modules/function-bind/README.md",
     "node_modules/function-bind/CHANGELOG.md",
-    "node_modules/range-parser/README.md",
     "스크린샷 2025-10-23 121535.png",
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
