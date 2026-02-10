@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "table-extended"
+  "table-extended",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-tasks-plugin"
 ]
