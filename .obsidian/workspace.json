@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+                "file": "node_modules/@modelcontextprotocol/sdk/README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3회차_AI_Agent_개념과_아키텍처"
+              "title": "README"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+                "file": "node_modules/@modelcontextprotocol/sdk/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3회차_AI_Agent_개념과_아키텍처 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -274,6 +274,7 @@
   },
   "active": "f37278b9e1f8934d",
   "lastOpenFiles": [
+    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "package-lock.json",
     "node_modules/@modelcontextprotocol/sdk/README.md",
     "node_modules/zod/src/v4/core/tests/locales/uz.test.ts",
@@ -285,7 +286,6 @@
     "node_modules/zod/src/v4/core/tests/locales/en.test.ts",
     "node_modules/zod/src/v4/core/tests/locales/he.test.ts",
     "node_modules/zod/src/v4/mini/tests/string.test.ts",
-    "node_modules/zod/src/v4/mini/tests/standard-schema.test.ts",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
     "node_modules/call-bind-apply-helpers/README.md",
