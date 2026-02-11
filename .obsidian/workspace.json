@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "할일목록-옵시"
             }
+          },
+          {
+            "id": "3db006370c3a80f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,13 +237,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3회차_AI_Agent_개념과_아키텍처 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -288,10 +297,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f37278b9e1f8934d",
+  "active": "3db006370c3a80f2",
   "lastOpenFiles": [
-    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "할일목록-옵시.md",
     "Excalidraw/Drawing 2026-02-10 19.53.25.excalidraw.md",
     "할일목록.md",
