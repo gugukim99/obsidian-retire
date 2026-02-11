@@ -95,10 +95,14 @@
             "id": "3db006370c3a80f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "할일목록.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "할일목록"
             }
           }
         ],
@@ -237,12 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "할일목록.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "할일목록 의 개요"
             }
           },
           {
@@ -297,15 +302,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "874f44ce14524014",
+  "active": "3db006370c3a80f2",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "할일목록-옵시.md",
+    "할일목록.md",
     "업무분석",
     "Homeworks/03/스크린샷 설치완료.png",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
-    "할일목록-옵시.md",
     "Excalidraw/Drawing 2026-02-10 19.53.25.excalidraw.md",
-    "할일목록.md",
     "할일목록.md.tmp.30932.1770721221379",
     "할일목록.md.tmp.30932.1770721166122",
     "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
@@ -318,7 +324,6 @@
     "my-review-plugin/skills/quick-review/SKILL.md",
     "my-review-plugin/skills/quick-review/SKILL.md.tmp.30500.1770709127930",
     "my-review-plugin/skills/quick-review",
-    "my-review-plugin/skills",
     "node_modules/@modelcontextprotocol/sdk/README.md",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
