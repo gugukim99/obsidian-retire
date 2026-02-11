@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Report/daily_report_2026-02-11.md",
+                "file": "Daily-Report/Agent화 설계 문서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily_report_2026-02-11"
+              "title": "Agent화 설계 문서"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Report/daily_report_2026-02-11.md",
+                "file": "Daily-Report/Agent화 설계 문서.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "daily_report_2026-02-11 의 개요"
+              "title": "Agent화 설계 문서 의 개요"
             }
           },
           {
@@ -262,14 +262,14 @@
   },
   "active": "b534d535eab175d7",
   "lastOpenFiles": [
-    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "Daily-Report/업무분석.md",
     "Daily-Report/daily_report_2026-02-11.md",
+    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "Homeworks/03/스크린샷 요청.png",
     "Daily-Report/daily_report_2026-02-11.md.tmp.24608.1770788706963",
     "Daily-Report/지시.md",
     "Daily-Report/daily_report_2026-02-11.md.tmp.24608.1770788603026",
     "Daily-Report/Agent화 설계 문서.md",
-    "Daily-Report/업무분석.md",
     "Daily-Report",
     "할일목록.md",
     "CLAUDE.md",
