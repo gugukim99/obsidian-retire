@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Report/Agent화 설계 문서.md",
+                "file": "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent화 설계 문서"
+              "title": "Phase2_Claude_Code_자동화_태스크 (1)"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 448.5
   },
   "right": {
     "id": "2d71f849e9cbbaac",
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Report/Agent화 설계 문서.md",
+                "file": "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Agent화 설계 문서 의 개요"
+              "title": "Phase2_Claude_Code_자동화_태스크 (1) 의 개요"
             }
           },
           {
@@ -262,6 +262,16 @@
   },
   "active": "b534d535eab175d7",
   "lastOpenFiles": [
+    "Homeworks/03/Agent_실행_로그_스크린샷3.png",
+    "Homeworks/03/Agent_실행_로그_스크린샷2.png",
+    "Homeworks/03/Agent_실행_로그_스크린샷1.png",
+    "Homeworks/03/Agent화_설계문서.md",
+    "Homeworks/03/지시.md",
+    "Homeworks/03/최종_결과물.md",
+    "첨부파일/Phase1-2_프롬프트_실전과제.md",
+    "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
+    "첨부파일/퇴직준비세미나_Phase2_사전과제_공지 (1).md",
+    "Daily-Report/Agent화 설계 문서.md",
     "Daily-Report/업무분석.md",
     "Daily-Report/daily_report_2026-02-11.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
@@ -269,7 +279,6 @@
     "Daily-Report/daily_report_2026-02-11.md.tmp.24608.1770788706963",
     "Daily-Report/지시.md",
     "Daily-Report/daily_report_2026-02-11.md.tmp.24608.1770788603026",
-    "Daily-Report/Agent화 설계 문서.md",
     "Daily-Report",
     "할일목록.md",
     "CLAUDE.md",
@@ -293,12 +302,6 @@
     "node_modules/call-bind-apply-helpers/README.md",
     "node_modules/call-bind-apply-helpers/CHANGELOG.md",
     "node_modules/qs/README.md",
-    "node_modules/qs/LICENSE.md",
-    "node_modules/qs/CHANGELOG.md",
-    "node_modules/negotiator/README.md",
-    "node_modules/negotiator/HISTORY.md",
-    "node_modules/router/README.md",
-    "node_modules/router/HISTORY.md",
     "스크린샷 2025-10-23 121535.png",
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
