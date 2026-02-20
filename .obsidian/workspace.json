@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
+                "file": "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase2_Claude_Code_자동화_태스크 (1)"
+              "title": "4회차_24시간_일하는_나의_분신_만들기"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
+                "file": "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Phase2_Claude_Code_자동화_태스크 (1) 의 개요"
+              "title": "4회차_24시간_일하는_나의_분신_만들기 의 개요"
             }
           },
           {
@@ -262,6 +262,7 @@
   },
   "active": "b534d535eab175d7",
   "lastOpenFiles": [
+    "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
     "Homeworks/03/Agent_실행_로그_스크린샷3.png",
     "Homeworks/03/Agent_실행_로그_스크린샷2.png",
     "Homeworks/03/Agent_실행_로그_스크린샷1.png",
@@ -269,7 +270,6 @@
     "Homeworks/03/지시.md",
     "Homeworks/03/최종_결과물.md",
     "첨부파일/Phase1-2_프롬프트_실전과제.md",
-    "첨부파일/Phase2_Claude_Code_자동화_태스크 (1).md",
     "첨부파일/퇴직준비세미나_Phase2_사전과제_공지 (1).md",
     "Daily-Report/Agent화 설계 문서.md",
     "Daily-Report/업무분석.md",
@@ -306,7 +306,6 @@
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
     "PARA/Archive/image.png",
-    "첨부파일/Pasted image 20260204144050.png",
-    "첨부파일/Pasted image 20260204144027.png"
+    "첨부파일/Pasted image 20260204144050.png"
   ]
 }
