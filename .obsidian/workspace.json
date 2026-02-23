@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal_Works/Recording_summary/11.md",
+                "file": "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11"
+              "title": "(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 511.5
   },
   "right": {
     "id": "2d71f849e9cbbaac",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal_Works/Recording_summary/11.md",
+                "file": "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "11 의 개요"
+              "title": "(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술 의 개요"
             }
           },
           {
@@ -248,8 +248,9 @@
   },
   "active": "b534d535eab175d7",
   "lastOpenFiles": [
-    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "Personal_Works/Recording_summary/11.md",
+    "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "Personal_Works/Recording_summary/11.md.tmp.13432.1771573086985",
     "Personal_Works/Recording_summary/(20250219) NRF과제기획회의.m4a",
     "Personal_Works/Recording_summary/(20250219) NRF 변형 감지 프리폼 디스플레이 과제 기획 회의록.md",
@@ -288,7 +289,6 @@
     "node_modules/@modelcontextprotocol/sdk/README.md",
     "node_modules/ajv/README.md",
     "node_modules/hono/README.md",
-    "node_modules/call-bind-apply-helpers/README.md",
     "스크린샷 2025-10-23 121535.png",
     "스크린샷 2025-10-22 115635.png",
     "첨부파일/Pasted image 20260204144006.png",
