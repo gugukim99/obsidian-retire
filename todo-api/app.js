@@ -3,6 +3,12 @@ const app = express();
 
 app.use(express.json());
 
+// 모든 응답에 UTF-8 인코딩 명시
+app.use((req, res, next) => {
+  res.setHeader('Content-Type', 'application/json; charset=utf-8');
+  next();
+});
+
 let todos = [];
 let nextId = 1;
 

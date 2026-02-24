@@ -1,3 +1,8 @@
+// Windows 콘솔 UTF-8 출력 설정
+if (process.stdout.setDefaultEncoding) {
+  process.stdout.setDefaultEncoding('utf8');
+}
+
 const app = require('./app');
 
 const PORT = process.env.PORT || 3000;
