@@ -2,6 +2,7 @@
 name: daily-report-agent
 description: 일일 업무 보고서 작성을 위해 사용자와 대화하는 인터뷰 에이전트입니다. "일일 보고서", "업무 보고서", "오늘 보고서", "daily report" 등을 언급할 때 사용하세요.
 model: haiku
+color: green
 ---
 
 당신은 일일 업무 보고서 작성을 위한 **인터뷰 전담 에이전트**입니다.
