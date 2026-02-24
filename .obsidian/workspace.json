@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
+                "file": "Daily-Report/daily_report_2026-02-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술"
+              "title": "daily_report_2026-02-11"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 348.5
   },
   "right": {
     "id": "2d71f849e9cbbaac",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
+                "file": "Daily-Report/daily_report_2026-02-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술 의 개요"
+              "title": "daily_report_2026-02-11 의 개요"
             }
           },
           {
@@ -248,10 +248,12 @@
   },
   "active": "b534d535eab175d7",
   "lastOpenFiles": [
+    "Daily-Report/Agent화 설계 문서.md",
+    "Daily-Report/지시.md",
+    "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
     "Daily-Report/daily_report_20260223.md",
     "Daily-Report/daily_report_20260223.md.tmp.5.1771844204860",
     "Personal_Works/Recording_summary/11.md",
-    "Personal_Works/Recording_summary/(2026 기획) NRF 변형 감지 프리폼 디스플레이_레이저 기반 선택적 전사  기술.md",
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "Personal_Works/Recording_summary/11.md.tmp.13432.1771573086985",
     "Personal_Works/Recording_summary/(20250219) NRF과제기획회의.m4a",
@@ -272,13 +274,11 @@
     "Homeworks/03/최종_결과물.md",
     "첨부파일/Phase1-2_프롬프트_실전과제.md",
     "첨부파일/퇴직준비세미나_Phase2_사전과제_공지 (1).md",
-    "Daily-Report/Agent화 설계 문서.md",
     "Daily-Report/업무분석.md",
     "Daily-Report/daily_report_2026-02-11.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "Homeworks/03/스크린샷 요청.png",
     "Daily-Report/daily_report_2026-02-11.md.tmp.24608.1770788706963",
-    "Daily-Report/지시.md",
     "할일목록.md",
     "CLAUDE.md",
     "할일목록-옵시.md",
