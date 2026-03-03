@@ -1,0 +1,12 @@
+# 자동 생성된 파일 (뉴스, 요약, 로그)
+news/*.md
+summaries/*.md
+logs/*.log
+
+# 작업 파일
+input/*
+output/*
+archive/*
+
+# .gitkeep 제외
+!**/.gitkeep
