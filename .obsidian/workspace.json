@@ -49,8 +49,7 @@
               "title": "4회차_24시간_일하는_나의_분신_만들기"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
+                "file": "Daily-Report/지시.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4회차_24시간_일하는_나의_분신_만들기 의 개요"
+              "title": "지시 의 개요"
             }
           },
           {
@@ -246,8 +245,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b534d535eab175d7",
+  "active": "9ce3903dd0491e93",
   "lastOpenFiles": [
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "todo-api/README.md",
     "todo-api/package.json.tmp.22312.1771934148259",
@@ -286,7 +286,6 @@
     "todo-api/node_modules/balanced-match/LICENSE.md",
     "todo-api/node_modules/browserslist/README.md",
     "todo-api/node_modules/@jest/pattern/README.md",
-    "todo-api/node_modules/@pkgjs/parseargs/README.md",
     "Homeworks/03/Agent_실행_로그_스크린샷3.png",
     "Homeworks/03/Agent_실행_로그_스크린샷2.png",
     "Homeworks/03/Agent_실행_로그_스크린샷1.png",
