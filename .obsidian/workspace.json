@@ -247,6 +247,8 @@
   },
   "active": "9ce3903dd0491e93",
   "lastOpenFiles": [
+    "cronjob-master/news/news_20260303_173016.md",
+    "cronjob-master/logs/fetch_news.log",
     "cronjob-master/summaries",
     "cronjob-master/scripts/watch_summarize.sh",
     "cronjob-master/scripts/watch_summarize.ps1",
@@ -256,8 +258,6 @@
     "cronjob-master/scripts/run_all.sh",
     "cronjob-master/scripts/fetch_news.sh",
     "cronjob-master/scripts/fetch_news.ps1",
-    "cronjob-master/scripts",
-    "cronjob-master/output",
     "cronjob-master/README.md",
     "cronjob-master/cronjob-master/README.md",
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
