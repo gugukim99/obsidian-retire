@@ -69,7 +69,7 @@ while ($true) {
 "@
 
     try {
-        claude -p $prompt 2>> $LogFile
+        claude -p $prompt --allowedTools "web_search" 2>> $LogFile
 
         if (Test-Path $OutputPath) {
             $FileSize = (Get-Item $OutputPath).Length
