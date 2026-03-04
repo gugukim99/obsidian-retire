@@ -71,16 +71,17 @@ for i in range(1, MEASURE_COUNT + 1):
     row = {
         "측정번호": i,
         "시간": ts.strftime("%Y-%m-%d %H:%M:%S"),
-        "전압(V)": f"{voltage:.6e}",
+        "입력전류(A)": f"{SOURCE_CURRENT_A:.2e}",
+        "출력전압(V)": f"{voltage:.6e}",
         "저항(Ω)": f"{resistance:.4f}",
         "면저항(Ω/sq)": f"{sheet_resistance:.4f}",
     }
     results.append(row)
 
-    print(f"[{i:02d}] {row['시간']}  V={voltage:.4e} V  R={resistance:.4f} Ω  Rs={sheet_resistance:.4f} Ω/sq")
+    print(f"[{i:02d}] {row['시간']}  I={SOURCE_CURRENT_A:.2e} A  V={voltage:.4e} V  R={resistance:.4f} Ω  Rs={sheet_resistance:.4f} Ω/sq")
 
-    # CSV 저장 (측정 N 회 + 타임스탬프)
-    fname = f"측정{i:02d}_{ts.strftime('%Y%m%d_%H%M%S')}.csv"
+    # CSV 저장 (측정 횟수만 파일명)
+    fname = f"측정{i:02d}.csv"
     fpath = os.path.join(RESULTS_DIR, fname)
     with open(fpath, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=row.keys())
