@@ -1,7 +1,7 @@
 """
 Keithley 2460 SourceMeter - van der Pauw 면저항 측정
 4선 (4-wire) 방식, 50 uA 전류 인가, 10회 측정 (1초 간격)
-결과 CSV 저장: results/측정N_YYYYMMDD_HHMMSS.csv
+결과 CSV 저장: results/YYYYMMDD_HHMMSS.csv (시작 시간 단일 파일)
 """
 
 import pyvisa
@@ -59,45 +59,48 @@ smu.write("OUTP ON")                           # 출력 ON
 print(f"\n출력 전류: {SOURCE_CURRENT_A*1e6:.0f} uA")
 print(f"측정 횟수: {MEASURE_COUNT}회 (간격: {MEASURE_INTERVAL}초)\n")
 
+# ── CSV 파일 준비 (시작 시간으로 파일명) ──────────────────
+start_ts = datetime.now()
+fname = f"{start_ts.strftime('%Y%m%d_%H%M%S')}.csv"
+fpath = os.path.join(RESULTS_DIR, fname)
+
+fieldnames = ["측정번호", "시간", "입력전류(A)", "출력전압(V)", "저항(Ω)", "면저항(Ω/sq)"]
+
 # ── 측정 루프 ─────────────────────────────────────────────
-results = []
+with open(fpath, "w", newline="", encoding="utf-8-sig") as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
 
-for i in range(1, MEASURE_COUNT + 1):
-    ts = datetime.now()
-    voltage = float(smu.query("READ?"))
-    resistance = voltage / SOURCE_CURRENT_A  # R = V / I (Ω)
-    sheet_resistance = resistance * (3.14159265 / 0.6931472)  # Rs = R * π/ln2 (van der Pauw 단순화)
+    for i in range(1, MEASURE_COUNT + 1):
+        ts = datetime.now()
+        voltage = float(smu.query("READ?"))
+        resistance = voltage / SOURCE_CURRENT_A  # R = V / I (Ω)
+        sheet_resistance = resistance * (3.14159265 / 0.6931472)  # Rs = R * π/ln2 (van der Pauw 단순화)
 
-    row = {
-        "측정번호": i,
-        "시간": ts.strftime("%Y-%m-%d %H:%M:%S"),
-        "입력전류(A)": f"{SOURCE_CURRENT_A:.2e}",
-        "출력전압(V)": f"{voltage:.6e}",
-        "저항(Ω)": f"{resistance:.4f}",
-        "면저항(Ω/sq)": f"{sheet_resistance:.4f}",
-    }
-    results.append(row)
-
-    print(f"[{i:02d}] {row['시간']}  I={SOURCE_CURRENT_A:.2e} A  V={voltage:.4e} V  R={resistance:.4f} Ω  Rs={sheet_resistance:.4f} Ω/sq")
-
-    # CSV 저장 (측정 횟수만 파일명)
-    fname = f"측정{i:02d}.csv"
-    fpath = os.path.join(RESULTS_DIR, fname)
-    with open(fpath, "w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=row.keys())
-        writer.writeheader()
+        row = {
+            "측정번호": i,
+            "시간": ts.strftime("%Y-%m-%d %H:%M:%S"),
+            "입력전류(A)": f"{SOURCE_CURRENT_A:.6f}",
+            "출력전압(V)": f"{voltage:.6f}",
+            "저항(Ω)": f"{resistance:.4f}",
+            "면저항(Ω/sq)": f"{sheet_resistance:.4f}",
+        }
         writer.writerow(row)
-    print(f"       → 저장: {fpath}")
 
-    if i < MEASURE_COUNT:
-        time.sleep(MEASURE_INTERVAL)
+        print(f"[{i:02d}] {row['시간']}  I={SOURCE_CURRENT_A:.2e} A  V={voltage:.4e} V  R={resistance:.4f} Ω  Rs={sheet_resistance:.4f} Ω/sq")
+
+        if i < MEASURE_COUNT:
+            time.sleep(MEASURE_INTERVAL)
+
+# CSV 파일 닫힘 (with 블록 종료)
+print(f"\n저장 완료: {fpath}")
 
 # ── 출력 OFF 및 해제 ──────────────────────────────────────
 smu.write("OUTP OFF")
 smu.close()
 rm.close()
 
-print(f"\n측정 완료. 총 {MEASURE_COUNT}개 파일이 results/ 에 저장되었습니다.")
+print(f"측정 완료. results/{fname} 에 저장되었습니다.")
 
 # ── 저장된 파일 오픈 (탐색기) ─────────────────────────────
 abs_results = os.path.abspath(RESULTS_DIR)
