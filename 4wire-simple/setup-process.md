@@ -62,8 +62,9 @@ USB드라이브/
 
 ### 파일 2: Keithley I/O Layer 다운로드
 
-- **다운로드 사이트:** https://www.tek.com/en/support/software/driver/keithley-io-layer
-- 페이지에서 최신 버전 선택 → `Download` 클릭
+- **다운로드 사이트:** https://www.tek.com/en/support/software/application/850c10
+  - Windows 7 호환 버전: **KIOL-850C10** (Windows 11/10/8/7 모두 지원)
+- 페이지에서 `Download` 클릭
 - Tektronix 계정 없으면 무료 회원가입 후 다운로드
 - USB의 `02_keithley_io/` 폴더에 저장
 
@@ -212,7 +213,7 @@ python src/4wire-simple.py
 | 순서 | 장소 | 작업 | 다운로드 사이트 |
 |------|------|------|----------------|
 | 사전 ① | 인터넷 PC | Python **3.8** 설치 파일 다운로드 | https://www.python.org/downloads/release/python-3819/ |
-| 사전 ② | 인터넷 PC | Keithley I/O Layer 다운로드 | https://www.tek.com/en/support/software/driver/keithley-io-layer |
+| 사전 ② | 인터넷 PC | Keithley I/O Layer 다운로드 | https://www.tek.com/en/support/software/application/850c10 |
 | 사전 ③ | 인터넷 PC | `pip download pyvisa pyvisa-py -d USB경로` | pip 명령어로 자동 다운로드 |
 | 사전 ④ | 인터넷 PC | 4wire-simple 폴더 USB 복사 | - |
 | 1 | 측정용 PC | Python 3.8 설치 (PATH 체크 필수) | USB에서 실행 |

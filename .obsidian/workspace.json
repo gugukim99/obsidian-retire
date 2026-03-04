@@ -257,11 +257,14 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "print:Print note": false
     }
   },
   "active": "0de1ce65bf39b27e",
   "lastOpenFiles": [
+    "4wire-simple/setup-process.md.tmp.2160.1772619585753",
+    "4wire-simple/setup-process.md.tmp.2160.1772619582040",
     "cronjob-master/news/news_20260303_183855.md",
     "cronjob-master/news/news_20260303_183509.md",
     "cronjob-master/news/news_20260303_182658.md",
@@ -279,7 +282,6 @@
     "cronjob-master/scripts/watch.ps1",
     "cronjob-master/scripts/run_all.ps1",
     "cronjob-master/scripts/run_all.sh",
-    "cronjob-master/scripts/fetch_news.sh",
     "cronjob-master/README.md",
     "cronjob-master/cronjob-master/README.md",
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
@@ -300,7 +302,6 @@
     "todo-api/node_modules/@bcoe/v8-coverage/CHANGELOG.md",
     "todo-api/node_modules/jest-haste-map/README.md",
     "todo-api/node_modules/istanbul-lib-report/README.md",
-    "todo-api/node_modules/istanbul-lib-report/CHANGELOG.md",
     "Homeworks/03/Agent_실행_로그_스크린샷3.png",
     "Homeworks/03/Agent_실행_로그_스크린샷2.png",
     "Homeworks/03/Agent_실행_로그_스크린샷1.png",
