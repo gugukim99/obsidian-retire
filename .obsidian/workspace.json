@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "0de1ce65bf39b27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4wire-simple/setup-process.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "setup-process"
+            }
+          },
+          {
             "id": "fb80711ab5e37c2d",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "4회차_24시간_일하는_나의_분신_만들기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Report/지시.md",
+                "file": "4wire-simple/setup-process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "지시 의 개요"
+              "title": "setup-process 의 개요"
             }
           },
           {
@@ -245,8 +260,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ce3903dd0491e93",
+  "active": "0de1ce65bf39b27e",
   "lastOpenFiles": [
+    "cronjob-master/news/news_20260303_183855.md",
+    "cronjob-master/news/news_20260303_183509.md",
     "cronjob-master/news/news_20260303_182658.md",
     "cronjob-master/scripts/fetch_news1.ps1",
     "cronjob-master/news/news_20260303_181855.md",
@@ -284,8 +301,6 @@
     "todo-api/node_modules/jest-haste-map/README.md",
     "todo-api/node_modules/istanbul-lib-report/README.md",
     "todo-api/node_modules/istanbul-lib-report/CHANGELOG.md",
-    "todo-api/node_modules/exit-x/README.md",
-    "todo-api/node_modules/json5/LICENSE.md",
     "Homeworks/03/Agent_실행_로그_스크린샷3.png",
     "Homeworks/03/Agent_실행_로그_스크린샷2.png",
     "Homeworks/03/Agent_실행_로그_스크린샷1.png",

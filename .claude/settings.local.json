@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git status:*)",
       "Bash(git add:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "WebSearch"
     ]
   }
 }
